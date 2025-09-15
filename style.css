@@ -1,0 +1,7 @@
+body { background: #fafafa; font-family: 'Segoe UI', sans-serif; }
+.center { max-width: 340px; margin: 70px auto; background: #fff; border-radius: 10px; box-shadow: 0 3px 16px #eee; padding: 32px; }
+input, textarea, select, button { width:100%; padding:10px; margin:7px 0; border-radius:5px; border:1px solid #ccc;}
+button { background: linear-gradient(90deg,#fd9044,#f94f4f,#933dcc); color: #fff; border: none; font-weight:700; cursor:pointer;}
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 8px; border: 1px solid #ddd;}
+img { border-radius:7px; }
